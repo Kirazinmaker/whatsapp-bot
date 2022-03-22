@@ -12,7 +12,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/Kirazinmaker/whatsapp-bot copy this url and change lyfe00011 with your github username and click GO<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Kirazinmaker/whatsapp-bot copy this url and change Kirazinmaker with your github username and click GO<br>
    <br>
    <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
@@ -21,7 +21,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/Kirazinmaker/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
 
